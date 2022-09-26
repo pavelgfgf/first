@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My code</title>
+</head>
+<body>
+<form> 
+<fieldset>
+    <legeng>Входные данные:</legeng>
+    <label for="login">Логин:</label>
+    <input type="text">
+
+</fieldset>
+</form>
+
+
+
+
+
+
+
+
+
+    <footer>
+        <address> 
+            Контакты для связи <a href="mailto:js@example.com">Том Смит</a>.
+        </address>
+        <p>© copyright 2016 Example Corp.</p>
+    </footer>
+</body>
+</html>
